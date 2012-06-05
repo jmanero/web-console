@@ -1,0 +1,28 @@
+{
+	"name" : "web-console",
+	"version" : "0.0.1",
+	"author" : "John Manero <john.manero@gmail.com>",
+	"homepage" : "https://github.com/jmanero/web-console",
+	"description" : "",
+	"keywords" : [ ],
+	"bugs" : {
+		"url" : "https://github.com/jmanero/web-console/issues"
+	},
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/jmanero/web-console.git"
+	},
+	"dependencies" : {
+		"express" : "*",
+		"jade" : "*"
+	},
+	"licenses": [
+	     {
+	       "type": "MIT",
+	       "url": "http://github.com/jmanero/web-console/blob/master/LICENSE"
+	     }
+     ],
+	"engine" : {
+		"node" : ">=0.6.17"
+	}
+}
